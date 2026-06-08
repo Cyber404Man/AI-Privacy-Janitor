@@ -13,7 +13,7 @@ Employees love AI efficiency, but pasting sensitive text often violates complian
 ## 📽️ Live Video Demonstration
 > Check out how the system works in real-time, including the live dashboard telemetry and the background memory injection blocker!
 
-*(Tip: You can upload your `Janitor.mp4` video here or link it via an external provider like YouTube or Loom)*
+<video src="Janitor.mp4" width="100%" controls></video>
 
 ---
 
